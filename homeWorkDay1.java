@@ -1,7 +1,12 @@
-// --------------------------------
-/* Home Work 01 */
-// --------------------------------
-class Information {
+import java.util.Scanner;
+
+/*
+  * --------------------------------
+            Home Work 01
+    --------------------------------
+  */
+/*
+ * class Information {
     public static void main(String[] args) {
         System.out.println("Name: Md. Musfiqur Rahman");
         System.out.println("ID: 221-15-4641");
@@ -11,3 +16,38 @@ class Information {
         System.out.println("Hobby: Singing a song, Coding");
     }
 }
+ */
+
+
+
+
+ /*
+  * --------------------------------
+            Home Work 02
+    --------------------------------
+  */
+/*
+   class Calculator{
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        float firstNumber, secondNumber, Summation, Subtraction, Multiplication, Division;
+
+        System.out.println("Enter first number: ");
+        firstNumber = input.nextFloat();
+
+        System.out.println("Enter second number: ");
+        secondNumber = input.nextFloat();
+        
+        Summation = firstNumber + secondNumber;
+        Subtraction = firstNumber - secondNumber;
+        Multiplication = firstNumber * secondNumber;
+        Division = firstNumber / secondNumber;
+
+        System.out.println("Summation: "+Summation);
+        System.out.println("Subtraction: "+Subtraction);
+        System.out.println("Multiplication: "+Multiplication);
+        System.out.format("Division: %.2f", Division);
+    }
+  }
+ */
