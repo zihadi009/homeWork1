@@ -18,11 +18,12 @@ import java.util.Scanner;
 }
 
 
-
   * --------------------------------
             Home Work - 02
     --------------------------------
   */
+
+
 /*
    class Calculator{
     public static void main(String[] args) {
@@ -49,10 +50,12 @@ import java.util.Scanner;
   }
  */
 
+
 /* --------------------------------
            Home Work - 03
    --------------------------------
 */
+
 
 /*
  class Name{
@@ -63,10 +66,12 @@ import java.util.Scanner;
 }
  */
 
+
 /* --------------------------------
           Home Work - 04
   --------------------------------
 */
+
 
 /*
  class Area {
@@ -79,6 +84,27 @@ import java.util.Scanner;
         double area = 3.1416 * radius * radius;
 
         System.out.format("Area: %.2f", area);
+    }
+}
+ */
+
+
+ /* --------------------------------
+          Home Work - 05
+  --------------------------------
+*/
+
+
+/*
+ class Mathematics {
+    public static void main(String[] args) {
+        int A = 5, B = 6, C = 7, D = 8;
+
+        System.out.println("A = 5, B = 6, C = 7, D = 8");
+        System.out.println("a) (A * B - C * D) = "+(A*B-C*D));
+        System.out.println("b) 2A - B + 3D = "+(2*A-B+3*D));
+        System.out.println("c) AA + BB - CC + DD = "+(A*A+B*B-C*C+D*D));
+        System.out.println("d) AAA + B - CC = "+(A*A*A+B-C*C));
     }
 }
  */
