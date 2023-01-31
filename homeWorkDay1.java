@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /*
   * --------------------------------
-            Home Work 01
+            Home Work - 01
     --------------------------------
   */
 /*
@@ -16,14 +16,11 @@ import java.util.Scanner;
         System.out.println("Hobby: Singing a song, Coding");
     }
 }
- */
 
 
 
-
- /*
   * --------------------------------
-            Home Work 02
+            Home Work - 02
     --------------------------------
   */
 /*
@@ -50,4 +47,18 @@ import java.util.Scanner;
         System.out.format("Division: %.2f", Division);
     }
   }
+ */
+
+ /* --------------------------------
+            Home Work - 03
+    --------------------------------
+*/
+
+/*
+ class Name{
+    public static void main(String[] args) {
+        String name = "Md.Musfiqur Rahman";
+        System.out.println(name);
+    }
+}
  */
