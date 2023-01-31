@@ -49,9 +49,9 @@ import java.util.Scanner;
   }
  */
 
- /* --------------------------------
-            Home Work - 03
-    --------------------------------
+/* --------------------------------
+           Home Work - 03
+   --------------------------------
 */
 
 /*
@@ -59,6 +59,26 @@ import java.util.Scanner;
     public static void main(String[] args) {
         String name = "Md.Musfiqur Rahman";
         System.out.println(name);
+    }
+}
+ */
+
+/* --------------------------------
+          Home Work - 04
+  --------------------------------
+*/
+
+/*
+ class Area {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Enter Radius: ");
+        double radius = input.nextFloat();
+
+        double area = 3.1416 * radius * radius;
+
+        System.out.format("Area: %.2f", area);
     }
 }
  */
